@@ -1,38 +1,17 @@
-# Terraweek Challenge
+# TerraWeek Challenge Tasks
+I have accepted the challenge of terraweek and completed all tasks. You can check my blog by clicking on these links. Please have a look and do let me know if something needs to be corrected.
+Don't forget to share your thoughts and feedback on the blog. Let's learn and grow together! 🤝
 
-Welcome to the Terraweek Challenge! 🚀
+https://devopsculture.hashnode.dev/introduction-to-terraform-and-terraform-basics
 
-This repository is your one-stop destination for all things Terraform. Whether you're a seasoned pro or new to infrastructure as code, we've got you covered.
+https://devopsculture.hashnode.dev/unlock-the-full-potential-of-infrastructure-as-code-by-mastering-hcl-in-terraform
 
-## What is Terraform?
+https://devopsculture.hashnode.dev/automating-infrastructure-with-terraform-creating-and-managing-resources
 
-Terraform is an open-source tool by HashiCorp that lets you define and provision your infrastructure using a simple, declarative language.
+https://devopsculture.hashnode.dev/terraform-state-a-comprehensive-guide-to-managing-infrastructure
 
-## How to Get Started?
+https://devopsculture.hashnode.dev/unlocking-scalability-and-reusability-in-terraform
 
-1. [Installation](https://karenngugi.hashnode.dev/installing-terraform-on-ubuntu-2204): Follow our easy installation guide to set up Terraform on your machine.
-2. [Learning Resources](https://www.youtube.com/@TrainWithShubham): Access our curated collection of tutorials, videos, and courses to quickly grasp Terraform's concepts.
-3. [Examples](https://github.com/hashicorp/terraform.git): Explore real-world examples covering different cloud providers and use cases to see Terraform in action.
-4. [Documentation](https://registry.terraform.io/): Refer to our comprehensive documentation for in-depth explanations and best practices.
-5. [Community](https://t.me/trainwithshubham): Join the Terraform community to connect with experts, ask questions, and share your knowledge.
+https://devopsculture.hashnode.dev/exploring-terraform-providers-seamless-resource-management-across-cloud-platforms
 
-## Contribute to the Challenge
-
-Help us build a valuable resource hub by contributing your Terraform guides, examples, or resources through pull requests.
-
-<p align="center">
-  <img align="center" src="https://github.com/LondheShubham153/TerraWeek/blob/main/assets/Terraform_background.jpg" width="800">
-</p>
-
-## Let's Get Started!
-
-Begin your Terraform journey today. Explore the repository, experiment, learn, and build incredible infrastructure solutions. We're excited to see what you create during the Terraweek Challenge! 🎉
-
-These are our community Links.
-
-- Telegram Channel: [https://t.me/trainwithshubham](https://t.me/trainwithshubham)
-- Discord Channel: [https://discord.gg/hs3Pmc5F](https://discord.gg/hs3Pmc5F)
-- WhatsApp Group: [https://chat.whatsapp.com/FvRlAAZVxUhCUSZ0Y1s7KY](https://chat.whatsapp.com/FvRlAAZVxUhCUSZ0Y1s7KY)
-- YouTube Channel: [https://www.youtube.com/@TrainWithShubham](https://www.youtube.com/@TrainWithShubham)
-- Website: [https://www.trainwithshubham.com/](https://www.trainwithshubham.com/)
-- LinkedIn: [https://www.linkedin.com/in/shubhamlondhe1996/](https://www.linkedin.com/in/shubhamlondhe1996/)
+https://devopsculture.hashnode.dev/maximizing-efficiency-and-collaboration-with-terraform-a-comprehensive-guide
